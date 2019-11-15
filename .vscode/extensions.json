@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    // Syntax highlighting and intilisence for `Vue` files:
+    "octref.vetur",
+    "dariofuzinato.vue-peek",
+
+    // Code format:
+    "EditorConfig.editorconfig",
+  ]
+}
